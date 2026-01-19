@@ -53,12 +53,12 @@ Below are sample screenshots from the generated PDF report:
 - ReportLab – PDF report generation
 
 ## 📊 Dataset Details
-- Download Dataset : 
+- Download Dataset : https://github.com/Rohit-Patel-Techie/PDF-Report-Generator/blob/main/data/sales-data-sample.csv
 
 ▶️ How to Run the Project Locally
 1️⃣ Clone the Repository
 - git clone https://github.com/Rohit-Patel-Techie/PDF-Report-Generator.git
-- cd REPORT-GENERATE-PDF
+- cd PDF-Report-Generator
 
 2️⃣ Create a Virtual Environment (Recommended)
 - python -m venv venv
